@@ -1,11 +1,22 @@
-<project>
-   <modelVersion>4.0.0</modelVersion>
-   <artifactId>chapter_001</artifactId>
-   <version>2.0</version>
-   <packaging>jar</packaging>
-   <parent>
-       <groupId>ru.job4j</groupId>
-       <artifactId>junior</artifactId>
-       <version>2.0</version>
-    </parent>
-</project>
+   /**
+     *Calculate
+     *@author - Maksim Rykhsiev
+     *@param args - args
+     *@return - main String
+   */
+
+
+  package ru.job4j.calculate;
+
+
+     public class Calculate {
+   
+
+     public static void main(String[] args) {
+      
+
+          System.out.println("Hello world.");
+   }
+
+
+  }
