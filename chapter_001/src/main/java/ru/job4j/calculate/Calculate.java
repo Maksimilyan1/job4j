@@ -1,33 +1,22 @@
-   /**
-     *Calculate
-     *@author - Maksim Rykhsiev
-     *@author - Maksim Rykhsiev
-     *@return - main String
-   */
 
-
-  package ru.job4j.calculate;
-
-  
-   /**
-     *Calculate
-   */
-
-     public class Calculate {
-   
-   /**
-   *@author - Maksim Rykhsiev
-   */
-     public static void main(String[] args) {
-  
-   /**
-    *@author - Maksim Rykhsiev
-   /*
-          System.out.println("Hello world.");
-   }
+   package ru.job4j.calculate;
 
     /**
-    *@return - main String
-   */
+     *класс Calculate
+     *@author - Maksim Rykhsiev
+    */
+   public class Calculate {
+     /**
+     *@param args - args
+    */
+   public static void main(String[] args) {
+  
+    
+     System.out.println("Hello world.");
+   }
+
+      /**
+       *@return - приветствие
+      */
 
   }
